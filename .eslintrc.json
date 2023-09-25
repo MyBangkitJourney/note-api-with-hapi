@@ -1,0 +1,20 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  // "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+
+  "rules": {
+    // eslint-disable-next-line no-console
+    "no-console": "off",
+    // eslint-disable-next-line semi
+    "semi": "off",
+    // eslint-disable-next-line linebreak-style
+    "linebreak-style": "off"
+  }
+}
